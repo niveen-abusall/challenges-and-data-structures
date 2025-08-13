@@ -1,15 +1,19 @@
-# Challenge 02: Minimum-Value 
+># 👩‍🎓Challenge 04: Remove middle value
 
 
 ## 🖋️ Challenge Description: 
 
+### 1️⃣Find array length manually
+### 2️⃣Find middle index
+### 3️⃣Shift elements left from middle index
+### 4️⃣Shorten array by one element
 
-### First I'll Assume the first element is the smallest to start
-### Second Loop through the array starting from the second element
-### Third Update min if a smaller value is found
 
-##
-![alt text](whiteboard-challenges/Challenge02-MinimumValue.png)
+
+#
+⬇️
+
+![alt text](whiteboard-challenges/Challenge04.png)
 ##
 
 
