@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yarn": "^1.22.22"
+  },
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
