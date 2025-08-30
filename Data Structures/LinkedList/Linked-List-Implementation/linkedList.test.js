@@ -30,3 +30,13 @@ describe("LinkedList", () => {
   });
 });
 
+
+const list = new LinkedList();
+list.append(30);
+list.append(20);
+list.append(10);
+
+
+console.log("Before Reverse:");
+list.printList();   // Output: 30 → 20 → 10 
+
