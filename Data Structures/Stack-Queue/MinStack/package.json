@@ -1,0 +1,15 @@
+{
+  "name": "minstack",
+  "version": "1.0.0",
+  "description": "An implementation of a Stack data structure with O(1) minimum retrieval.",
+  "main": "minStack.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
