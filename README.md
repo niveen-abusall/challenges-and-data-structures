@@ -16,4 +16,4 @@
 ![alt text](whiteboard-challenges/Challenge04.png)
 ##
 
-
+* [Delete Middle Element](./Data Structures/Stack-Queue/DeleteMiddleElement/README.md)
