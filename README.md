@@ -16,5 +16,5 @@
 ![alt text](whiteboard-challenges/Challenge04.png)
 ##
 
-* [Delete Middle Element](./Data Structures/Stack-Queue/DeleteMiddleElement/README.md)
+## [Delete-Middle-Element-Stack] https://github.com/niveen-abusall/challenges-and-data-structures/blob/Delete-Middle-Element-Stack/Data%20Structures/Stack-Queue/DeleteMiddleElement/README.md
 
