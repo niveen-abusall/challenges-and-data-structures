@@ -1,0 +1,16 @@
+{
+  "name": "tree-implementation",
+  "version": "1.0.0",
+  "description": "Binary Tree and Binary Search Tree Implementation",
+  "main": "TreeImplementation.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
