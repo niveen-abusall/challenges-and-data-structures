@@ -2,7 +2,7 @@
 
 
 
-## Problem Domain
+## 🧩 Problem Domain
 Implement binary tree and binary search tree data structures with their core operations.
 
 ### Binary Tree
