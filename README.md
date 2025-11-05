@@ -1,20 +1,6 @@
-># 👩‍🎓Challenge 04: Remove middle value
+## 🍀Leaf-Sum-Challenge
 
-
-## 🖋️ Challenge Description: 
-
-### 1️⃣Find array length manually
-### 2️⃣Find middle index
-### 3️⃣Shift elements left from middle index
-### 4️⃣Shorten array by one element
-
-
-
-#
-⬇️
-
-![alt text](whiteboard-challenges/Challenge04.png)
-##
+### https://github.com/niveen-abusall/challenges-and-data-structures/blob/Leaf-Sum/Data%20Structures/Trees/TreeImplementaion/LeafSum/README.md
 
 ## [Delete-Middle-Element-Stack] https://github.com/niveen-abusall/challenges-and-data-structures/blob/Delete-Middle-Element-Stack/Data%20Structures/Stack-Queue/DeleteMiddleElement/README.md
 
